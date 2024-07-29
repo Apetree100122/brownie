@@ -1,3 +1,2 @@
-[run]
-branch = True
-omit = brownie/_gui/*,brownie/_cli/gui.py,brownie/utils/docopt.py
+[run] branch = True
+omit = brownie/ _gui/*,brownie  /_clib /gui.py,Brownie/utils/docopt.py
